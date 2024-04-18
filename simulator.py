@@ -1,7 +1,7 @@
 #INPUT FILE AND ITS CONTENT ADDED IN A LIST OF LINES
 
 
-f = open("in.txt", "r")
+f = open("C:\\Users\\Paridhi Kotarya\\OneDrive\\Desktop\\in.txt", "r")
 lines = f.readlines()
 if not lines:
     print("Error: Input file is empty")
